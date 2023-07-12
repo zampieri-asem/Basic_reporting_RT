@@ -1,0 +1,11 @@
+Name: Type
+Type: FolderType
+Children:
+- Name: Tank
+  Id: g=e315205b8eb23cb0321386ec5434bbc5
+  Supertype: BaseObjectType
+  Children:
+  - Name: SetPoint
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0

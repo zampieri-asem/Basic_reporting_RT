@@ -1,0 +1,31 @@
+Name: Instance
+Type: FolderType
+Children:
+- Name: Tank1
+  Type: Tank
+  Children:
+  - Name: SetPoint
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 10
+- Name: Tank2
+  Type: Tank
+  Children:
+  - Name: SetPoint
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 20
+- Name: Tank3
+  Type: Tank
+  Children:
+  - Name: SetPoint
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 30
+- Name: Tank4
+  Type: Tank
+  Children:
+  - Name: SetPoint
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 40

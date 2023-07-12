@@ -1,0 +1,15 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- Name: Variable1
+  Id: g=57c38b71a50974ffc0bca22c7de3f391
+  Type: BaseDataVariableType
+  DataType: ResourceUri
+  Value: "0"
+- Name: Variable2
+  Id: g=b97fe8c5d46c787e7b063f01ecbba220
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: true
+- File: Type/Type.yaml
+- File: Instance/Instance.yaml
